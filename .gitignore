@@ -1,4 +1,6 @@
 .env
+.deployment/
+.coverage
 __pycache__/
 *.pyc
 .pytest_cache/
