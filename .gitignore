@@ -1,5 +1,6 @@
 .env
 .deployment/
+.vercel/
 .coverage
 __pycache__/
 *.pyc
