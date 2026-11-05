@@ -20,7 +20,7 @@ app.add_middleware(
 
 @app.get("/")
 def index():
-    return {"app": "fastapi-example", "status": "ok", "version": 2}
+    return {"app": "fastapi-example", "status": "ok", "version": 3}
 
 
 @app.get("/health")
